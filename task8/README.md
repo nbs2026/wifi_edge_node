@@ -8,7 +8,6 @@ Send the same sensor payload (Temperature, Humidity, and Soil Moisture) using bo
 
 * ESP32
 * DHT22 Sensor
-* Soil Moisture Sensor
 
 ## Methodology
 
